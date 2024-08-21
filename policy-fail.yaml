@@ -13,7 +13,7 @@ sca:
     value: 2
   high_count:
     operator: greater_than
-    value: 1
+    value: 15
 
 secret:
   contains:
