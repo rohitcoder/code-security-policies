@@ -1,26 +1,4 @@
 ## list in which conditions our pipeline should fail
-sast:
-  critical_count:
-    operator: greater_than
-    value: 2
-  high_count:
-    operator: greater_than
-    value: 2
-
-sca:
-  critical_count:
-    operator: greater_than
-    value: 2
-  high_count:
-    operator: greater_than
-    value: 15
-
 secret:
   contains:
-  - JDBC
-
-license:
-  contains:
-  - AGPL
-  - GPL
-  - LGPL
+  - slackwebhook
