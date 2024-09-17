@@ -3,3 +3,4 @@ secret:
   contains:
   - SLACKWEBHOOK
   - GITHUB
+  - PRIVATEKEY
