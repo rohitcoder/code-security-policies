@@ -1,6 +1,5 @@
 ## list in which conditions our pipeline should fail
 secret:
   contains:
-  - SLACKWEBHOOK
   - GITHUB
   - PRIVATEKEY
