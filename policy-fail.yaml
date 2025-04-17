@@ -3,7 +3,3 @@ secret:
   contains:
   - GITHUB
   - PRIVATEKEY
-dep:
-  contains:
-  - "itext7-core"
-  - "org.bouncycastle"
