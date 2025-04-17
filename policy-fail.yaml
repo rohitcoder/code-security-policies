@@ -3,3 +3,6 @@ secret:
   contains:
   - GITHUB
   - PRIVATEKEY
+sca:
+  contains:
+  - "itext7-core"
