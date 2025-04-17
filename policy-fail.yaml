@@ -3,6 +3,6 @@ secret:
   contains:
   - GITHUB
   - PRIVATEKEY
-sca:
+pkg_check:
   contains:
   - "itext7-core"
